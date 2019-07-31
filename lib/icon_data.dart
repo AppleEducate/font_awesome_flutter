@@ -1,6 +1,6 @@
 library font_awesome_flutter;
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 class IconDataBrands extends IconData {
   const IconDataBrands(int codePoint)
